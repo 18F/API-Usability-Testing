@@ -13,7 +13,7 @@ title: Templates
 
 
 
-## Email to Agency Participants - One Week Before
+## Email to Agency Participants - One Week Before  (1st session)
 
 Hi folks,  
 
@@ -58,9 +58,7 @@ Pull up agency developer hub and look at it from the perspective of a potential 
  * What tools or resources would you like to have that you don’t see?
 
 
-
-
-## Email to Agency Participants - One Week Before
+## Email to Agency Participants - One Week Before  (1st session)
 
 Hey folks!  
 
@@ -109,6 +107,54 @@ Links
 
 *[Include Links to the Developer portal and/or API pages]*
 
+
+
+## Email to Agency Participants - One Week Before (second session)
+ 
+ 
+ Hi folks,  
+
+We're really looking forward the upcoming feedback sessions this Thursday.   We're going to be in Room 1101 at GSA HQ and will be going from 9am-12pm, so please plan to arrive before 9 so we can start on time. At security, you can skip the metal detectors and show them your government ID to get in.  If you have any trouble, have them call my cell (below). 
+
+The schedule is below and we'll look to hold tightly to it.  We've got a great lineup of developers, though, and we think that you'll find this really useful.  
+
+*Most of all, we want to give you a healthy swath of fresh outside feedback and developer insight.*
+
+
+* 9:00-9:45:  Expert 1 (First Developer's Name (and affiliation)) review session 
+* 9:45-10:30:   Expert 2 (Second Developer's Name (and affiliation)) review session 
+* 10:30-11:15:  Expert 3 (Third Developer's Name (and affiliation)) review session 
+* 11:15-12:00:  API owners discuss, provide peer review, and share concrete next next steps they will adopt.
+
+Each of these three developers are familiar with the government space and have built mashups consuming APIs before.  Each developer will connecting remotely for a session of 45 minutes and in that time, will go through each of the agencies for about 10 minutes and then engage in Q&A for the last part.  For each agency, there are three levels at which they may give feedback, along the lines of the below.  We'll be encouraging them to speak aloud as they navigate your developer resources so that you can have plenty of unpackaged feedback.  
+
+Each reviewer is advanced enough not to need further direction and I'd ask you to mostly just observe so that we can best replicate what outside developers experience.  If they ask a question, you can answer it but try to be more brief.  I'll lovingly be encouraging reviewers and agencies both to stay on track.  :)
+
+If you desire feedback on a particular API or developer resource, let me know and I'll ask them to prioritize that but otherwise, they'll be encouraged to give feedback on whatever is catching their attention.  
+
+I'm really looking forward to this and want to thank you again for being an early adopter of this initiative.  I'm hoping that the feedback that each of the agencies is getting will be of use to you and your team and we're definitely glad that you'll be representing.  
+
+Please reach out any time with questions and feel free to call me anytime at *[Your Number]*.  
+
+Thanks!
+
+*[Your Name]*
+
+-------------------------------
+
+Developer prompts 
+
+Pull up agency developer hub and look at it from the perspective of a potential developer.  Begin at the developer hub level, then - as time permits, drill down to one or more individual API pages, and, as you see fit, possibly the actual endpoint and call returns themselves.  
+
+
+* Feedback
+ * What is good?
+ * What is bad?
+ * What is missing?
+ * What would you do differently?
+* Ideas
+ * What APIs would you like to have from them that aren’t there?
+ * What tools or resources would you like to have that you don’t see?
 
 
 
