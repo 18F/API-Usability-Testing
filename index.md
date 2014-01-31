@@ -10,4 +10,4 @@ title: Home
 ## Materials
 * Overview
 * Schedule
-* Templates
+* [Templates](http://graybrooks.com/API-Usability-Testing/templates/)
