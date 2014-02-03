@@ -12,8 +12,6 @@ title: Templates
 {:toc}
 
 
-
-
 ## Email to Agency Participants - One Week Before  (1st session)
 
 Hi folks,  
@@ -43,7 +41,7 @@ Thanks.
 *[Your Name]*
 
 
-==========================
+--
 
 Developer prompt.  
 
@@ -88,7 +86,7 @@ Thanks.
 p.s.  Please also note that all of this feedback is off of the record and solely intended for constructive feedback, so you should speak your mind and not hold any punches.  :)
 
 
-==========================
+--
 
 Developer prompt.  
 
@@ -103,7 +101,7 @@ Pull up agency developer hub and look at it from the perspective of a potential 
  * What APIs would you like to have from them that aren’t there?
  * What tools or resources would you like to have that you don’t see?
 
-======
+--
 Links
 
 *[Include Links to the Developer portal and/or API pages]*
@@ -141,7 +139,7 @@ Thanks!
 
 *[Your Name]*
 
--------------------------------
+-----
 
 Developer prompts 
 
