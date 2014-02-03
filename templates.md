@@ -8,7 +8,8 @@ title: Templates
 
 
 
-
+* auto-gen TOC:
+{:toc}
 
 
 
