@@ -9,5 +9,5 @@ title: Home
 
 ## Materials
 * Overview
-* Schedule
+* [Schedule](http://graybrooks.com/API-Usability-Testing/schedule/)
 * [Templates](http://graybrooks.com/API-Usability-Testing/templates/)
