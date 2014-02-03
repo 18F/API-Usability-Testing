@@ -6,10 +6,34 @@ filename: templates.md
 title: Templates
 ---
 
-
-
 * auto-gen TOC:
 {:toc}
+
+
+
+
+## Email Invitation to Agencies to Participate
+
+We're putting together a pilot project that combines usability testing and APIs at the end of the month and are looking for four agencies who have multiple APIs and who would like to get feedback on their APIs and developer resources from three outside experts.  The event would be from 9-12, with time at the end for the three agencies to compare notes and ideas with each other, too.  Each agency could send one person or bring their whole team.  If you're interested in this for your agency, please let me know.  
+
+
+## Email Invitation to an Outside Developer to Participate
+
+
+Hey,  
+
+We're prototyping a form of API feedback later this month and I wanted to see if you were free to join in.  
+
+Here's what it'd be like - We take three agencies who have at least a few APIs and over the course of a morning, ask three outside developers to give them feedback.  We'd schedule it such that we'd only need 30 minutes of your time and the attention would be entirely on what you had to say.   Thoughout your session, we'd have lined up for you the developer hubs of each of the four agencies and would ask you to go through each, spending 6-7 minutes per agency, giving general or specific feedback, sharing what you would change, what you find helpful, and what you find inconvenient or confusing.  The agency's API producers would be present but would be solely to hear your thoughts.  If there was time or if it'd be helpful, we'd have prompts on hand to ask you to walk through a workflow and respond specifically to it, though you could also just preach truth to the agencies the entire time instead.  :)  We have a number of agencies who are eager to engage and hear your thoughts - so many that we have a full waiting list.  
+
+A few notes -
+* I'm coordinating this event and would assure that it is set up to be an efficient use of your time.  
+* After each of the outside experts have given their feedback, we will have a followup discussion where agencies share with each other what they learned and what they would suggest for each other.  During this, I'll be requesting each agency to choose 2 short- and 2 medium-term changes that they plan to implement as a result of this feedback so you can be sure that your feedback is going to good use.  
+* You could do this in person here at GSA or over Google Hangout from your office.  
+
+This should be a great opportunity to rub off on some of the agencies who are best in a position to do justice to your feedback.  Would you be game?  
+
+
 
 
 ## Email to Agency Participants - One Week Before  (1st session)
