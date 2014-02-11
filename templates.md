@@ -14,7 +14,7 @@ title: Templates
 
 ## Email Invitation to Agencies to Participate
 
-We're been putting together a pilot project that combines usability testing and APIs and are scheduling a session on March 4.  For this, we are looking for three agencies who have multiple APIs and who would like to get feedback on their APIs and developer resources from three outside experts.  The event would be from 9-12, with time at the end for the three agencies to compare notes and ideas with each other, too.  Each agency could send one person or bring their whole team.  I think your operation would find this substantial and enriching.  Any interest in this?  
+We're been putting together a pilot project that combines usability testing and APIs and are scheduling a session on March 4.  For this, we are looking for three agencies who have multiple APIs and who would like to get feedback on them and their developer resources from three outside experts.  The event would be from 9-12, with time at the end for the three agencies to compare notes and ideas with each other, too.  Each agency could send one person or bring their whole team.  I think your operation would find this substantial and enriching.  Any interest in this?  
 
 
 ## Email Invitation to an Outside Developer to Participate
