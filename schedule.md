@@ -16,6 +16,7 @@ title: Schedule
 * 9:45-10:30:   Expert 2 reviews.
 * 10:30-11:15:  Expert 3 reviews. 
 * 11:15-12:00:  API owners discuss, provide peer review, and state 3-4 concrete next next steps they will adopt.  
+12:15: Debrief for GSA Team 
 
 
 
@@ -23,3 +24,17 @@ Questions:
 What advice do you have for the other agencies?  
 What were your major takeaways?
 How do you think you can address these problems
+What do you think you could do in short order?  What's your low hanging fruit?  
+
+
+
+
+4 weeks - Invite partipants 
+3 weeks - Reserve room, webinar, etc. 
+2 weeks - Ensure everyone is confirmed.
+1 week - Send confirmation emails with details 
+1 day - 'See you tomorrow' email to all 
++1 day - Thank you emails to developers, 'any suggestions on how we can facilitate'.  
++1 day - Check-In Email to agencies, include survey, say that we'd love to check in in 2 weeks.  
++2 weeks - Check in with agencies on improvements made?
+
