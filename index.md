@@ -18,6 +18,7 @@ filename: index.md
 
 ## Components
 
+* [FAQ](http://graybrooks.com/API-Usability-Testing/faq/)
 * [Materials](http://graybrooks.com/API-Usability-Testing/materials/)
 * [Schedule](http://graybrooks.com/API-Usability-Testing/schedule/)
 * [Templates](http://graybrooks.com/API-Usability-Testing/templates/)
