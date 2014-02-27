@@ -28,13 +28,16 @@ title: Schedule
    
 
 Questions:   
-What advice do you have for the other agencies?     
-What were your major takeaways?   
-How do you think you can address these problems   
-What do you think you could do in short order?  What's your low hanging fruit?     
+* What were your major takeaways?   
+* What advice do you have for the other agencies?     
+* How do you think you can address these problems? 
+* What do you think you could do in short order?  What's your low hanging fruit that you could do in 2 weeks?   
 
 
       
+Add in step to confirm  by email - sessions 
+
+
 
 4 weeks - Invite partipants   
 3 weeks - Reserve room, webinar, etc.   
