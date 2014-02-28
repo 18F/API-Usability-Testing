@@ -56,9 +56,9 @@ The schedule is below and we'll look to hold tightly to it.  We've got a great l
 * 10:30-11:15:  Expert 3 (Third Developer's Name (and affiliation)) review session 
 * 11:15-12:00:  API owners discuss, provide peer review, and share concrete next next steps they will adopt.
 
-Each of these three developers are familiar with the government space and have built mashups consuming APIs before.  Each developer will connecting remotely for a session of 45 minutes and in that time, will go through each of the agencies for about 10 minutes and then engage in Q&A for the last part.  Each agency might receive feedback at three levels - the developer hub, individual API documentation, and the API endpoint itself.   We'll be encouraging them to speak aloud as they navigate your developer resources so that you can have plenty of unpackaged feedback.  
+Each of these three developers are familiar with the government space and have built mashups consuming APIs before. Each developer will come in for a session of 45 minutes and in that time, will go through each of the agencies for about 10 minutes, then engage in Q&A for the last part. You will receive feedback at three levels - the developer hub, individual API documentation, and the API endpoint itself. We’ll be encouraging them to speak aloud as they navigate your developer resources so that you can have plenty of raw feedback.
 
-Each reviewer is advanced enough not to need further direction and I'd ask you to mostly just observe so that we can best replicate what outside developers experience.  If they ask a question, you can answer it but try to be more brief.  I'll lovingly be encouraging reviewers and agencies both to stay on track.  :)
+Each reviewer is advanced enough not to need further direction and I’d ask you to mostly just observe so that we can best replicate what outside developers experience. If they ask a question, you can answer it but try to be more brief. I’ll lovingly encourage reviewers and agencies both to stay on track. :)
 
 If you desire feedback on a particular API or developer resource, let me know and I'll ask them to prioritize that but otherwise, they'll be encouraged to give feedback on whatever is catching their attention.  
 
