@@ -95,7 +95,7 @@ Hey folks!
 
 Thank you again; we're really looking forward to having your insight on *[day of the week]*.  A bit of quick background:   One thing to note is that this is very much a prototype event.  We're trying something new here, so as we go through this, please feel free to suggest improvements to the process as well.  The goals are to maximize your opportunities to give feedback and suggestions to these three agencies.  
 
-We're going to be in Room *[Room Number]* at GSA HQ *[Link address]* *.  The schedule is below and we'll look to hold tightly to it.  
+We're going to be in Room *[Room Number]* at GSA HQ *[Link address]*. *  The schedule is below and we'll look to hold tightly to it.  
 
 * 9:00-9:45:  Expert 1 (First Developer's Name (and affiliation)) review session 
 * 9:45-10:30:   Expert 2 (Second Developer's Name (and affiliation)) review session 
