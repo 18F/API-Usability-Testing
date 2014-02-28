@@ -56,11 +56,11 @@ Pull up agency developer hub and look at it from the perspective of a potential 
  * What tools or resources would you like to have that you don’t see?
 
 
-## Email to Agency Participants - One Week Before  (1st session)
+## Email to Outside Experts - One Week Before  (1st session)
 
 Hey folks!  
 
-Thank you again; we're really looking forward to having your insight on Monday.  A bit of quick background:   One thing to note is that this is very much a prototype event.  We're trying something new here, so as we go through this, please feel free to suggest improvements to the process as well.  The goals are to maximize your opportunities to give feedback and suggestions to these four agencies, .  
+Thank you again; we're really looking forward to having your insight on *[day of the week]*.  A bit of quick background:   One thing to note is that this is very much a prototype event.  We're trying something new here, so as we go through this, please feel free to suggest improvements to the process as well.  The goals are to maximize your opportunities to give feedback and suggestions to these four agencies.  
 
 We're going to be in Room 1101 at GSA HQ *[Link address]*.  The schedule is below and we'll look to hold tightly to it.  
 
