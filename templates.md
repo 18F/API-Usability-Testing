@@ -39,7 +39,7 @@ Our next session is from 9-12 on [insert date], but we'd only need you for one h
 
 
 
-## Email to Agency Participants - One Week Before (second session)
+## Email to Agency Participants - One Week Before
  
  
  Hi folks,  
@@ -89,7 +89,7 @@ Pull up agency developer hub and look at it from the perspective of a potential 
  * What tools or resources would you like to have that you don’t see?
 
 
-## Email to Outside Experts - One Week Before  (1st session)
+## Email to Outside Experts - One Week Before 
 
 Hey folks!  
 
