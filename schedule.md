@@ -22,7 +22,7 @@ title: Schedule
  * 10:35 Expert 2 reviews agency 1  
  * 10:50 Expert 2 reviews agency 2   
  * 11:05 Expert 2 reviews agency 3  
-* 11:15-12:00:  API owners discuss, provide peer review, and state 3-4 concrete next next steps they will adopt.  
+* 11:15-12:00:  API owners discuss, provide peer review, and state 3-4 concrete next next steps they will adopt. Create  blank google doc and capture conversation and problems / solutions
 * 12:15: Debrief for GSA Team 
 
    
