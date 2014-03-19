@@ -143,3 +143,25 @@ Links
 ## Scheduler for Outside Experts - One Week Before
 
 Thanks for being part of the API UX test! If you can arrive maybe 5-10 minutes early to give time for security, that'd be great. You can reach me at *[cell number]* when you get here and I'll serve as your escort to the testing room. Gray, Jon, myself, and the agency representatives look forward to seeing you!
+
+## Day Before Reminder
+
+Hello all:
+
+We are excited to see everyone tomorrow and have a great API UX session at *[Location]*. If you have any security or location problems, please call me at *[phone number]*. If you can, please plan to arrive five or ten minutes before your scheduled start time (9 a.m. for agencies, varied for developers) so we can make sure we’re efficient and respectful of everyone’s time.
+
+As a quick reminder, the schedule looks like:
+
+* 9:00-9:40:  Expert 1 *(Name)* reviews each agency for 10 min. 5 things to be fixed and Q+A
+* 9:40 - 9:45 Break
+* 9:45-10:25:   Expert 2 *(Name)* review session.  5 things to be fixed and Q+A
+* 10:25 - 10:30 Break
+* 10:30-11:10:  Expert 3 *(Name)* review session.  5 things to be fixed and Q+A
+* 11:10 - 11:15 Break
+* 11:15-12:00:  API owners discuss, provide peer review, and share concrete next steps they will adopt.
+
+I think that’s it! See you all tomorrow.
+
+Best,
+
+*[Names]*
