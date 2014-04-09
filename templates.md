@@ -62,7 +62,7 @@ Each reviewer is advanced enough not to need further direction and I’d ask you
 
 If you desire feedback on a particular API or developer resource, let me know and I'll ask them to prioritize that but otherwise, they'll be encouraged to give feedback on whatever is catching their attention.  
 
-I'm really looking forward to this and want to thank you again for being an early adopter of this initiative.  I'm hoping that the feedback that each agency is getting will be of use to you and your team.  We're definitely glad that you'll be representing.  
+I'm really looking forward to this and want to thank you again for being an early adopter of this initiative.  I'm hoping that the feedback each agency is getting will be of use to you and your team. One of our goals for this session is to identify two (or more) easily obtainable improvements to your pages/APIs, and we'll follow up with you a couple weeks after the session to check up on the progress. We're definitely glad that you'll be representing.  
 
 Please reach out any time with questions and feel free to call me anytime at *[Your Number]*.  
 
