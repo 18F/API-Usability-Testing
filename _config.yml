@@ -1,0 +1,71 @@
+# Base configuration
+permalink: /news/:title 
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+markdown: kramdown
+pygments: true
+gems:
+  - jekyll-sitemap
+
+#Prose.io editing info
+repo_name: API-All-the-X
+branch: gh-pages
+#GitHub organization name *or* username
+gh_org: 18F
+prose_url: http://github.com/
+site_url: http://18f.github.io/API-All-the-X
+media: assets/img
+
+
+# Your Programs's Name
+name: /Developer Program
+subtitle: API Resources for Federal Agencies
+
+# When using this template with a project page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+#baseurl: ''
+baseurl: '/API-All-the-X'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: 18F
+  url: http://localhost:4000
+
+# ------------------------------------------------------------------
+#   Navigation
+#   List links that should appear in the site sidebar here
+#   "pages" is a directory to keep web content that are not posts
+# ------------------------------------------------------------------
+navigation:
+- text: Home
+  url: index.html
+  internal: true
+- text: Community
+  url: pages/community.html
+  internal: true
+- text: Collaboration
+  url: pages/collaboration.html
+  internal: true  
+- text: Tools
+  url: pages/tools.html
+  internal: true
+- text: Resources
+  url: pages/resources.html
+  internal: true  
+- text: Education
+  url: pages/education.html
+  internal: true 
+- text: Support
+  url: pages/support.html
+  internal: true
+- text: Status
+  url: pages/status.html
+  internal: true  
+- text: Other Material
+  url: pages/other_material.html
+  internal: true  
+- text: Share your Feedback
+  url: https://github.com/18F/API-All-the-X/issues
+  internal: false
+  
