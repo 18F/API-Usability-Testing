@@ -1,8 +1,8 @@
 ---
-published: true
-permalink: /faq/
-layout: default
-filename: faq.md
+layout: page
+title: "FAQ"
+authors: "Gray Brooks"
+
 ---
 
 *1. Where should we find developers to participate in usability sessions for our APIs?*  
