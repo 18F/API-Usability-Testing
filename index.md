@@ -7,8 +7,8 @@ authors: "Gray Brooks"
 
 ## Background
 
-We want to help you build better gov APIs.  Our two GSA programs - ([18F](https://18f.gsa.gov/) and [][DigitalGov User Experience Program] (https://www.digitalgov.gov/resources/digitalgov-user-experience-program/)) - use real customer feedback and User Experience expertise to help reduce errors, simplify work-flow and increase customer use of your API.
-
+If you want people to use your API, it needs to be usable.
+We want to help you build better gov APIs.  Our two GSA programs - ([18F](https://18f.gsa.gov/) and the [DigitalGov User Experience Program](https://www.digitalgov.gov/resources/digitalgov-user-experience-program/)) - use real customer feedback and User Experience expertise to help reduce errors, simplify work-flow and increase customer use of your API. 
 
 
 ### Goals 
