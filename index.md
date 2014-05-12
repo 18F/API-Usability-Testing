@@ -7,13 +7,17 @@ authors: "Gray Brooks"
 
 ## Background
 
-...
+We want to help you build better APIs 
 
 ### Goals
 
 * Improve UX of government APIs 
 * Create a process for improving APIs in the future
 * Expand GSA's Usability Services into new area
+
+## Who we are
+
+Our two programs (18F(http://www.cnn.com)) and DigitalGov User Experience Program ( 
 
 ### Blogposts and News
 
