@@ -1,10 +1,9 @@
 ---
-published: true
-permalink: /
-layout: default
-filename: index.md
----
+layout: page
+title: "Home"
+authors: "Gray Brooks"
 
+---
 
 ## Background
 
