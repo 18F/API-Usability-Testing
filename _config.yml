@@ -45,7 +45,7 @@ navigation:
   url: pages/materials.html
   internal: true
 - text: FAQ
-  url: pages/FAQ.html
+  url: pages/faq.html
   internal: true  
 - text: Contact US
   url: pages/contact_us.html
