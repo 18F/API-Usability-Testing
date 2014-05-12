@@ -50,7 +50,4 @@ navigation:
 - text: Contact US
   url: pages/contact_us.html
   internal: true 
-- text: Share your Feedback
-  url: https://github.com/18F/API-Usability-Testing/issues
-  internal: false
-  
+
