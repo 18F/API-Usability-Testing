@@ -1,10 +1,9 @@
 ---
-published: true
-permalink: /materials/
-layout: default
-filename: materials.md
----
+layout: page
+title: "Materials"
+authors: "Gray Brooks"
 
+---
 * [Feedback Survey](https://docs.google.com/spreadsheet/viewform?fromEmail=true&formkey=dHRkRnlFUzRyY0thWktoT09PSy1iWmc6MA)
 
 
