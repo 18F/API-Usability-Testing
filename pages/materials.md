@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Materials"
+title: "Other Materials"
 authors: "Gray Brooks"
 
 ---
