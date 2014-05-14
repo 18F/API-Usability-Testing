@@ -16,4 +16,4 @@ We want to help you build better gov APIs.  Our two GSA programs - ([18F](https:
 
 **May 9, 2014**  
 * [Make Gov APIs Better with User Experience](http://www.digitalgov.gov/2014/05/09/make-gov-apis-better-with-user-experience/)  
-* [Can Anyone Actually Use The Data Your Agency Has Opened? - NextGov](http://www.nextgov.com/technology-news/tech-insider/2014/05/can-anyone-actually-use-data-your-agency-has-opened/84202/?oref=voicesmodule)
+* [Can Anyone Actually Use The Data Your Agency Has Opened? - NextGov](http://www.nextgov.com/technology-news/tech-insider/2014/05/can-anyone-actually-use-data-your-agency-has-opened/84202/?oref=voicesmodule)  
