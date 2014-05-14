@@ -25,6 +25,18 @@ Try and rely on people's goodwill and their interest in helping to improve the f
 We use 3-5 developers per session and can get a ton of data from them.
 
 
+### 5. What materials should we bring on test day?  
+
+Be sure to bring power strips for laptops, printed copies of the agenda, and pens.  
+
+### 6. What should we do if one of the experts doesn't show?  
+
+... 
+
+### 7. What should we do if one of the agencies doesn't show?  
+
+Just rightsize the event to work for n-1 agency participants.
+
 
 
 
