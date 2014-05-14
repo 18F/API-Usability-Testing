@@ -44,12 +44,12 @@ navigation:
 - text: Kit
   url: pages/kit.html
   internal: true
+- text: FAQ
+  url: pages/faq.html
+  internal: true
 - text: Other Materials
   url: pages/materials.html
   internal: true
-- text: FAQ
-  url: pages/faq.html
-  internal: true  
 - text: Contact Us
   url: pages/contact_us.html
   internal: true 
