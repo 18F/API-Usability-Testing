@@ -41,12 +41,12 @@ navigation:
 - text: Home
   url: index.html
   internal: true
-- text: Kit
-  url: pages/kit.html
-  internal: true
 - text: Guide
   url: pages/guide.html
   internal: true 
+- text: Kit
+  url: pages/kit.html
+  internal: true
 - text: FAQ
   url: pages/faq.html
   internal: true
