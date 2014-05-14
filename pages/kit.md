@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "API Testing Kit"
-authors: "Gray Brooks"
-
 ---
 
 We created this page to give you the tools to createa a better API User Experience. We took the format we've used to evaluate more than a dozen gov APIs and laid it out for you to copy (or fork, as it were). The kit provides a structured way to collect feedback from real or representative customers, and tools to collect this data and act on it.
