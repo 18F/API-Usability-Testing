@@ -1,7 +1,5 @@
 ---
-published: true
 layout: default
-filename: templates.md
 title: Templates
 ---
 
