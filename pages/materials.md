@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Other Materials"
-authors: "Gray Brooks"
-
 ---
+
 * [Feedback Survey](https://docs.google.com/spreadsheet/viewform?fromEmail=true&formkey=dHRkRnlFUzRyY0thWktoT09PSy1iWmc6MA)
 
 
