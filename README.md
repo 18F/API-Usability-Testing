@@ -1,6 +1,6 @@
 /Developer Program
 =============
 
-The [official microsite of the /Developer Program](http://18f.github.io/API-All-the-X/), a project of [18F](http://18f.gsa.gov) API Engagement.  Please suggest further projects, ask questions, or otherwise share thoughts in [the issues tracker](https://github.com/18F/API-All-the-X/issues?state=open).  Pull requests are welcome.  
+The [official microsite of the API Usability Program](http://18f.github.io/API-Usability-Testing/), a partnership of [18F](https://18f.gsa.gov/) and the [DigitalGov User Experience Program](https://www.digitalgov.gov/resources/digitalgov-user-experience-program/).  Please suggest further projects, ask questions, or otherwise share thoughts in [the issues tracker](https://github.com/18F/API-Usability-Testing/issues).  Pull requests are welcome.  
 
 
