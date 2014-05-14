@@ -7,9 +7,9 @@ title: Guide
 Here's how to create your own API Usability Evaluation:
 
 
-First, sell this concept to your team. You're going to be spending some time getting this together, so let's make it count. Do people understand why User Experience is important? Are they willing to make changes based on the feedback you get? Get people on board, and get them excited about the evaluation.
+First, **sell this concept to your team**. You're going to be spending some time getting this together, so let's make it count. Do people understand why User Experience is important? Are they willing to make changes based on the feedback you get? Get people on board, and get them excited about the evaluation.
 
-Then find
+Then **find some reviwers**. 
 
 find some reviewers
 
