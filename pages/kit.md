@@ -16,8 +16,9 @@ The format is simple:
 
 
 ### Material 
+* [Guide](http://18f.github.io/API-Usability-Testing/pages/guide.html)
 * [Email Tempates](http://18f.github.io/API-Usability-Testing/pages/templates)
-* [Handout]()
-* [Schedule]()
-* [Agency Checklist]()
+* [Handout](http://18f.github.io/API-Usability-Testing/pages/guide.html)
+* [Schedule](http://18f.github.io/API-Usability-Testing/pages/schedule.html)
+* [Agency Checklist](http://18f.github.io/API-All-the-X/pages/agency_checklist.html)
 * [Survey](http://18f.github.io/API-Usability-Testing/pages/survey.html)
