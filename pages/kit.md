@@ -20,11 +20,14 @@ The format is simple:
 5. Repeat
 
 
-
-
-
 ### Goals 
 
 * Improve UX of government APIs 
 * Create a process for improving APIs in the future
 * Expand GSA's Usability Services into new area
+
+### Material 
+* [Email Tempates](http://18f.github.io/API-Usability-Testing/pages/templates)
+* [Handout]()
+* [Schedule]()
+* [Agency Checklist]()
