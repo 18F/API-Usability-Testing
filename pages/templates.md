@@ -10,7 +10,7 @@ title: Templates
 
 ## Archives
 
-[Template Archives](http://graybrooks.com/API-Usability-Testing/template_archives/)
+[Template Archives](http://graybrooks.com/API-Usability-Testing/template_archives)
 
 
 ## Email Invitation to Agencies to Participate
