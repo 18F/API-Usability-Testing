@@ -12,15 +12,15 @@ Alternatively, you can engage with the developer community in your area and ask 
 Lastly, you can contact the API Usability team at GSA (GRAY - Link?) to ask for suggestions.   
 
 
-**2. How can we do API usability testing with a remote participant?**  
+### 2. How can we do API usability testing with a remote participant?  
 
 Ideally, you'll have your test participants (e.g. the developers) in the same room with your team. If you can't make that happen, use any webinar software and have the developer review the site remotely while you watch. Feel free to record that webinar so you can review it later.
 
-*3. Do we need to pay them?*  
+### 3. Do we need to pay them?
 
 Try and rely on people's goodwill and their interest in helping to improve the federal govennment. People like to help and offer their expertise. That should work 95% of the time.
 
-*4. How many developers should we get?*  
+### 4. How many developers should we get?
 
 We use 3-5 developers per session and can get a ton of data from them.
 
