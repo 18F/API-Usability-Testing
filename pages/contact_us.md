@@ -5,5 +5,4 @@ authors: "Gray Brooks"
 
 ---
 
-
-https://github.com/18F/API-Usability-Testing/issues
+Have questions?  Interested in participating?  Contact us at uxgov at gsa dot gov.  
