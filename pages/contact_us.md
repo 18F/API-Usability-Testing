@@ -5,4 +5,6 @@ authors: "Gray Brooks"
 
 ---
 
-Have questions?  Interested in participating?  Contact us at uxgov at gsa dot gov.  
+Have questions?  Interested in participating?  
+  
+Contact us at uxgov at gsa dot gov.  
