@@ -16,16 +16,16 @@ The format is simple:
 ### Material  
 
 <table style="width: 66%;" border="0" cellpadding="2" cellspacing="2">
-    <tr><ul>
-        <li><td style="width: 33%;"><a href="http://18f.github.io/API-Usability-Testing/pages/guide.html">Guide</a></td></li>
-        <li><td style="width: 33%;"><a href="http://18f.github.io/API-Usability-Testing/pages/schedule.html">Schedule</a></td></li>
-    </ul></tr>
-    <tr><ul>
-        <li><td style="width: 33%;"><a href="http://18f.github.io/API-Usability-Testing/pages/templates">Email Templates</a></td></li>
-        <li><td style="width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/agency_checklist.html">Agency Checklist</a></td></li>
-    </ul></tr>
-    <tr><ul>
-        <li><td style="width: 33%;"><a href="http://18f.github.io/API-Usability-Testing/pages/handout.html">Handout</a></td></li>
-        <li><td style="width: 33%;"><a href="http://18f.github.io/API-Usability-Testing/pages/survey.html">Survey</a></td></li>
-    </ul></tr>
+    <tr>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/guide.html">Guide</a></td>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/schedule.html">Schedule</a></td>
+    </tr>
+    <tr>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/templates">Email Templates</a></td>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-All-the-X/pages/agency_checklist.html">Agency Checklist</a></td>
+    </tr>
+    <tr>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/handout.html">Handout</a></td>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/survey.html">Survey</a></td>
+    </tr>
 </table>
