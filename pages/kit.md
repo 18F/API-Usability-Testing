@@ -22,7 +22,7 @@ The format is simple:
     </tr>
     <tr>
         <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/templates">Email Templates</a></td>
-        <td style="width: 33%;">* <a href="http://18f.github.io/API-All-the-X/pages/agency_checklist.html">Agency Checklist</a></td>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/Agency-API-Guidelines.html">Agency API Guidelines</a></td>
     </tr>
     <tr>
         <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/handout.html">Handout</a></td>
