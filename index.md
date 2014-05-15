@@ -16,7 +16,7 @@ Because if you want people to use your API, it *needs* to be usable.
 
 * Improve UX of government APIs 
 * Create a process for improving APIs in the future
-* Expand GSA's Usability Services into new area
+* Expand GSA's Usability Services into new a area
 
 ### Blogposts and News
 
