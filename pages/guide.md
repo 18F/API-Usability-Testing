@@ -5,7 +5,7 @@ title: Guide
 
 Here's how to create your own API Usability Evaluation:
 
-### Plan
+### 1. Plan
 + **Sell this concept to your team** - You're going to be spending some time getting this together, so let's make it count. Do people understand why User Experience is important? Are they willing to make changes based on the feedback you get? Get people on board, and get them excited about the evaluation.
 
 + **Find some reviewers** - You want to get 2-4 people who are close to your customers as possible. But in the end, anyone who isn't on your team and understands APIs can offer useful feedback.  Some tips to finding reviewers: Actively reach out to your developer community by posting an invitation on your developer hub or emailing known constituency groups that you've worked with in the past on your programs requirements; visit local meetups such as the [DC API meetup](www.meetup.com/DC-Web-API-User-Group/) to find active and interested citizen developers; or [contact the GSA API Usability team](http://18f.github.io/API-Usability-Testing/pages/contact_us.html) who will always be happy to help you recruit.  
@@ -18,23 +18,28 @@ Here's how to create your own API Usability Evaluation:
 
 + **Create a webinar (optional)** - If people can't make it, let them watch virtually. But don't rely on it - the customer data is really important, and being there in person to hear it is invaluable. 
 
-### Hold the review
+### 2. Hold the review
 
 + **Set up the room** - Print out the agenda (LINK) and the attached Usability Problem Sheet. Give people pens and paper. Set up a computer for the reviewer with the API open and ready to be used.
-+ 
-+ **Assign roles** - You'll need a few people:
-1. Facilitator - Lead the meeting, explain the rules and keep the meeting moving along
-2. Logistics - Let people into the building, help with tech issues
-3. Notetaker - Take screenshots of your API before the test, and take notes throughout
 
-+ **Lay the ground rules** - Tell the API teams and the evaluators that you are doing a usability review of the API. The goal is to educate people about the importance of user experience, to show the entire API team about ways to improve it, and to leave with action items about issues to fix. Thank the reviewer and let them begin.
++ **Assign roles** - You'll need a few people:
+  *Facilitator - Lead the meeting, explain the rules and keep the meeting moving along
+  *Logistics - Let people into the building, help with tech issues
+  *Notetaker - Take screenshots of your API before the test, and take notes throughout
+
++ **Lay the ground rules** - Tell the API teams and the evaluators that you are doing a usability review of the API. The goal is to educate people about the importance of user experience, to show the entire API team about ways to improve it, and to leave with action items about issues to fix. Tell all the observers to take notes. Thank the reviewer and let them begin.
 
 + **Let the reviewer talk** - Let each reviewer speak without interruption for 30-45 minutes, or however long they can.  Encourage them to talk out loud as they look around the API. Have them focus on the API landing page, documentation, and the individual API pages and code. 
 
-+ **Write down the problems** - Look for problems that seriously prevent people from understanding or using your API. Also pay attention to problems discovered by more than one reviewer - there's a good chance that's a big issue. Here's a list (LINK HERE) of problems you might here. Pick some long hanging fruit and agree to fix them quickly. 
++ **Write down the problems** - Look for problems that seriously prevent people from understanding or using your API. Also pay attention to problems discovered by more than one reviewer - there's a good chance that's a big issue. Here's a list (LINK HERE) of problems you might find. 
++ 
+
++ **Q+A** When the evaluator is done, and if you have time, ask thme follow up questions, what the main problems were, examples of good APIS, etc. 
+
++ **Debrief** - Once the evaluators are done, talk about the problems you heard about. Agree on the big problems. Pick some long hanging fruit and agree to fix them quickly. 
 
 
-### After the review
+### 3. After the review
 
 + **Send out a survey** - Email everyone involved and thank them, and send out this survey (LINK) to collect feedback for future evaluations. 
 
