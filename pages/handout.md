@@ -3,7 +3,7 @@ layout: page
 title: "Handout Template"
 ---
 
-# [FRONT OF PAGE]
+## [FRONT OF PAGE]
 
 
 API Usability Review @ {Agency}
@@ -21,7 +21,6 @@ Today, we'll be reviewing the API programs of {Agency}. Three private industry d
 * 11:10 - 11:15: Break
 * 11:15 - 12:00:  API owners discuss, provide peer review, and share concrete next steps they will adopt.
 
-
 These reviews will begin at the developer hub level. Then, as time permits, they will drill down to one or more individual API pages. Our reviewers will provide feedback on the following:
 
 * What is good?
@@ -32,8 +31,7 @@ These reviews will begin at the developer hub level. Then, as time permits, they
 * What tools or resources would you like to have that you don’t see?
 
 
-# [BACK OF PAGE]
-
+## [BACK OF PAGE]
 
 
 **DigitalGov UX Program top usability problems worksheet**
