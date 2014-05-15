@@ -5,6 +5,7 @@ title: "Handout Template"
 
 # [FRONT OF PAGE]
 
+
 API Usability Review @ {Agency}
 {Names of Organizers}
 
@@ -34,7 +35,8 @@ These reviews will begin at the developer hub level. Then, as time permits, they
 # [BACK OF PAGE]
 
 
-->**DigitalGov UX Program top usability problems worksheet**<-
+
+**DigitalGov UX Program top usability problems worksheet**
 
 After each test session, list the three most serious usability problems you noticed. Serious problems are ones that affect a large group of users, or that interfere with critical tasks.
 
