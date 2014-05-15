@@ -29,14 +29,13 @@ We use 3-5 developers per session and can get a ton of data from them.
 
 Be sure to bring power strips for laptops, printed copies of the agenda, and pens.  
 
-### 6. What should we do if one of the experts doesn't show?  
-
-... 
-
-### 7. What should we do if one of the agencies doesn't show?  
+### 6. What should we do if one of the agencies doesn't show? 
 
 Just rightsize the event to work for n-1 agency participants.
 
+### 7. What should we do if one of the experts doesn't show?   
+
+One option is to use the extra time to directly engage with the agency participants on the other feedback they've gotten and review the agency checklist with them.  
 
 
 
