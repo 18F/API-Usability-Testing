@@ -6,7 +6,7 @@ title: Guide
 Here's how to create your own API Usability Evaluation:
 
 ### 1. Plan
-**Sell this concept to your team** - You're going to be spending some time getting this together, so let's make it count. Do people understand why User Experience is important? Are they willing to make changes based on the feedback you get? Get people on board, and get them excited about the evaluation.
+**Sell this concept to your team** - **You're** going to be spending some time getting this together, so let's make it count. Do people understand why User Experience is important? Are they willing to make changes based on the feedback you get? Get people on board, and get them excited about the evaluation.
 
 **Find some reviewers** - You want to get 2-4 people who are close to your customers as possible. But in the end, anyone who isn't on your team and understands APIs can offer useful feedback.  Some tips to finding reviewers: Actively reach out to your developer community by posting an invitation on your developer hub or emailing known constituency groups that you've worked with in the past on your programs requirements; visit local meetups such as the [DC API meetup](www.meetup.com/DC-Web-API-User-Group/) to find active and interested citizen developers; or [contact the GSA API Usability team](http://18f.github.io/API-Usability-Testing/pages/contact_us.html) who will always be happy to help you recruit.  
 
