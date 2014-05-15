@@ -25,7 +25,7 @@ Here's how to create your own API Usability Evaluation:
 + **Assign roles** - You'll need a few people:
   * Facilitator - Lead the meeting, explain the rules and keep the meeting moving along
   * Logistics - Let people into the building, help with tech issues
-3.Notetaker - Take screenshots of your API before the test, and take notes throughout
+  * Notetaker - Take screenshots of your API before the test, and take notes throughout
 
 + **Lay the ground rules** - Tell the API teams and the evaluators that you are doing a usability review of the API. The goal is to educate people about the importance of user experience, to show the entire API team about ways to improve it, and to leave with action items about issues to fix. Tell all the observers to take notes. Thank the reviewer and let them begin.
 
