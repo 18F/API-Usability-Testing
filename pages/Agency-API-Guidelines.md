@@ -64,3 +64,5 @@ authors: "Jonathan Rubin"
 * Have you begun encouraging the different units of your agency to consume your agency's own APIs if they haven’t already. 
 * Have you looked for opportunities to consume other agencies' APIs to avoid maintaining duplicative services? 
 
+*This page cross-posted from the [18F "API-All-the-X"](https://github.com/18F/API-All-the-X/blob/gh-pages/pages/best_practices.md) pages*
+
