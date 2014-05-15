@@ -6,15 +6,23 @@ title: Guide
 Here's how to create your own API Usability Evaluation:
 
 ### Plan
-+ First, **sell this concept to your team**. You're going to be spending some time getting this together, so let's make it count. Do people understand why User Experience is important? Are they willing to make changes based on the feedback you get? Get people on board, and get them excited about the evaluation.
++ **Sell this concept to your team** - You're going to be spending some time getting this together, so let's make it count. Do people understand why User Experience is important? Are they willing to make changes based on the feedback you get? Get people on board, and get them excited about the evaluation.
 
-+ Then **find some reviwers**. You want to get people who are close to your customers as possible. But in the end, anyone who isn't on your team and understands APIs can offer useful feedback. Find reviewers by **XXXXXXHOW TO FIND THEMXXXX** Tell your reviewers to spend some time on the site, and 
++ **Find some reviwers** - You want to get people who are close to your customers as possible. But in the end, anyone who isn't on your team and understands APIs can offer useful feedback. Find reviewers by **XXXXXXHOW TO FIND THEMXXXX** Tell your reviewers to spend some time on the site 
 
-+ **Get your logistics covered**. Spend a lot of time confirming people's involvement. 
-+ Create a **calendar invite** and bring in people as they agree to take part. 
-+ Then **get a room** that will hold your team, a reviewer and any observers you want to bring in. Remember, this can be a very powerful demonstration about why customer feedback is so important. The customer data you receive can solve disputes you're having. If your whole team can't make it, create a **webinar** for them. But don't rely on it - the customer data is really important, and being there in person to hear it is invaluable.
++ **Get your logistics covered** -  Spend a lot of time confirming people's involvement. Use this [email template](http://18f.github.io/API-Usability-Testing/pages/templates)  to invite everybody. Create a calendar invite and bring in people as they agree to take part. Send follow ups to everyone two weeks out, one week out, and the day before.
+
++ **Get a room** - It needs to hold your team, a reviewer and any observers you want to bring in. Remember, this can be a very powerful demonstration about why customer feedback is so important. The customer data you receive can solve disputes you're having. 
+
++ **Create a webinar (optional)** - If people can't make it, let them watch virtually. But don't rely on it - the customer data is really important, and being there in person to hear it is invaluable. 
+
+### Hold the review
+
++ 
 
 
+
+### After the review
 
 find some reviewers
 
