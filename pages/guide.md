@@ -22,7 +22,7 @@ Here's how to create your own API Usability Evaluation:
 
 **Set up the room** - Print out the agenda (LINK) and the attached Usability Problem Sheet. Give people pens and paper. Set up a computer for the reviewer with the API open and ready to be used.
 
-+ **Assign roles** - You'll need a few people:
+**Assign roles** - You'll need a few people:
   * Facilitator - Lead the meeting, explain the rules and keep the meeting moving along
   * Logistics - Let people into the building, help with tech issues
   * Notetaker - Take screenshots of your API before the test, and take notes throughout
