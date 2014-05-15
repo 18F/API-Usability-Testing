@@ -6,7 +6,7 @@ title: Schedule
 * 8:30 *Set up room, Webex / Google Hangout, etc.*
 * 8:45 *Agencies Arrive*
 * 8:55 *Expert 1 Arrive*
-* 9:00 *Welcom*
+* 9:00 *Welcome*
 * 9:00-9:45  *Expert 1 reviews all 3 APIS*
  * 9:05 *Expert 1 reviews agency 1*  
  * 9:20 *Expert 1 reviews agency 2*   
