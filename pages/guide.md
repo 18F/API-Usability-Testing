@@ -12,7 +12,7 @@ Here's how to create your own API Usability Evaluation:
 
 **Get your logistics covered** -  Spend a lot of time confirming people's involvement. Use this [email template](http://18f.github.io/API-Usability-Testing/pages/templates)  to invite everybody. Try and get as many stakeholders from each API as you can. Create a calendar invite and bring in people as they agree to take part. Send follow ups to everyone two weeks out, one week out, and the day before.  
 
-**Prep your evaluators** - Tell your reviewers to spend some time on the site first, even just five minutes. Tell them their goal is to do a live review of the strengths and weaknesses of the API. Tell them there will be a time crunch, so try to get into specifics as quickly as possible. 
+**Prep your evaluators** - Tell your reviewers to spend some time on the site first, even just five minutes. Tell them their goal is to do a live review of the strengths and weaknesses of the API. Tell them there will be a time crunch, so try to get into specifics as quickly as possible. Here's a list of [API Best Practices](http://18f.github.io/API-All-the-X/pages/best_practices.html) for them to refer to, if needed.
 
 **Get a room** - It needs to hold your team, a reviewer and any observers you want to bring in. Remember, this can be a very powerful demonstration about why customer feedback is so important. The customer data you receive can solve disputes you're having. 
 
@@ -31,8 +31,7 @@ Here's how to create your own API Usability Evaluation:
 
 **Let the reviewer talk** - Let each reviewer speak without interruption for 30-45 minutes, or however long they can.  Encourage them to talk out loud as they look around the API. Have them focus on the API landing page, documentation, and the individual API pages and code. 
 
-**Write down the problems** - Look for problems that seriously prevent people from understanding or using your API. Also pay attention to problems discovered by more than one reviewer - there's a good chance that's a big issue. Here's a list (LINK HERE) of problems you might find. 
-
+**Write down the problems** - Look for problems that seriously prevent people from understanding or using your API. Also pay attention to problems discovered by more than one reviewer - there's a good chance that's a big issue. 
 
 **Q+A** When the evaluator is done, and if you have time, ask thme follow up questions, what the main problems were, examples of good APIS, etc. 
 
