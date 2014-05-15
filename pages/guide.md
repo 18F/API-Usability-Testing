@@ -27,27 +27,21 @@ Here's how to create your own API Usability Evaluation:
 
 + **Let the reviewer talk** - Let each reviewer speak without interruption for 30-45 minutes, or however long they can.  Encourage them to talk out loud as they look around the API. Have them focus on the API landing page, documentation, and the individual API pages and code. 
 
-+ **Write down the problems** - Look for problems that seriously prevent people from understanding or using your API.
++ **Write down the problems** - Look for problems that seriously prevent people from understanding or using your API. Also pay attention to problems discovered by more than one reviewer - there's a good chance that's a big issue. Here's a list (LINK HERE) of problems you might here. Pick some long hanging fruit and agree to fix them quickly. 
 
 
 ### After the review
 
-find some reviewers
++ **Send out a survey** - Email everyone involved and thank them, and send out this survey (LINK) to collect feedback for future evaluations. 
 
-4 weeks - Invite partipants
-3 weeks - Reserve room, webinar, etc.
-2 weeks - Ensure everyone is confirmed.
-1 week - Send confirmation emails with details
-1 day - 'See you tomorrow' email to all
-+1 day - Thank you emails to developers, 'any suggestions on how we can facilitate'.
-+1 day - Check-In Email to agencies, include survey, say that we'd love to check in in 2 weeks.
-+2 weeks - Check in with agencies on improvements made?
++ **Fix problems** - Do it!
+
++ **Schedule another evaluation** - You'll discover more reviews every time, and dtermine whether fixes you've made address the problem
+
++ **Document sucesses** - See if your metrics improve as a result of your test. Use the screenshots you took to create a Before and After. Spread the word about the important of this kind of evaluation, and invite more people to the next one!
 
 
 
-Find some reviewers - You have more fans than you realize. FInd them by doing XXXXX
-
-Get a place - Find a place that can hold your team, developers and has a big enough screen for everyone to watch what's happening.
 
 
 
