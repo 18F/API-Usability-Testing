@@ -13,12 +13,19 @@ The format is simple:
 4. Fix key issues
 5. Repeat
 
+### Material  
 
-
-### Material 
-* [Guide](http://18f.github.io/API-Usability-Testing/pages/guide.html)
-* [Email Tempates](http://18f.github.io/API-Usability-Testing/pages/templates)
-* [Handout](http://18f.github.io/API-Usability-Testing/pages/guide.html)
-* [Schedule](http://18f.github.io/API-Usability-Testing/pages/schedule.html)
-* [Agency Checklist](http://18f.github.io/API-All-the-X/pages/agency_checklist.html)
-* [Survey](http://18f.github.io/API-Usability-Testing/pages/survey.html)
+<table style="width: 66%;" border="0" cellpadding="2" cellspacing="2">
+    <tr>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-Usability-Testing/pages/guide.html">Guide</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-Usability-Testing/pages/schedule.html">Schedule</a></td>
+    </tr>
+    <tr>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-Usability-Testing/pages/templates">Email Templates</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-All-the-X/pages/agency_checklist.html">Agency Checklist</a></td>
+    </tr>
+    <tr>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-Usability-Testing/pages/handout.html">Handout</a></td>
+        <td style="text-align: center; width: 33%;"><a href="http://18f.github.io/API-Usability-Testing/pages/survey.html">Survey</a></td>
+    </tr>
+</table>
