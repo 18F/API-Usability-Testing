@@ -61,7 +61,7 @@ Reviewer #3
 
 
 **Usability problems discovered** 
-(“The User experienced a problem when…)
+(“The User experienced a problem when…")
 
 1.  
 	Solution:
