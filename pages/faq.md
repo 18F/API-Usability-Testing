@@ -37,7 +37,13 @@ Just rightsize the event to work for n-1 agency participants.
 
 One option is to use the extra time to directly engage with the agency participants on the other feedback they've gotten and review the agency checklist with them.  
 
+### 8. How much planning does this take?
 
+Once you do a couple of these, they become easy to replicate. We recommend giving yourself 4 weeks to nail down a date and confirm attendance, but the actual prep work can be done in a short period of time.
+
+### 9. What kind of followup is necessary?
+
+Great question. We let our agency participants know right from the start that we hope to identify a few things they can easily change to make their API and its pages better. Then, we follow up with them 2-3 weeks afterward to see if they have made any changes. We always try to capture before and after screenshots for our records, as well.
 
 
 
