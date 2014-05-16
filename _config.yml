@@ -39,18 +39,18 @@ author:
 # ------------------------------------------------------------------
 navigation:
 - text: Home
-  url: index.html
+  url: index
   internal: true
 - text: Guide
-  url: pages/guide.html
+  url: pages/guide
   internal: true 
 - text: Kit
-  url: pages/kit.html
+  url: pages/kit
   internal: true
 - text: FAQ
-  url: pages/faq.html
+  url: pages/faq
   internal: true
 - text: Contact Us
-  url: pages/contact_us.html
+  url: pages/contact_us
   internal: true 
 
