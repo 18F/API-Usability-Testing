@@ -16,16 +16,18 @@ The format is simple:
 ### Material  
 
 <table style="width: 66%;" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-        <td style="width: 33%;"><ul><li><a href="http://18f.github.io/API-Usability-Testing/pages/guide">Guide</a></li></ul></td>
-        <td style="width: 33%;"><ul><li><a href="http://18f.github.io/API-Usability-Testing/pages/schedule">Schedule</a></li></ul></td>
+<ul>
+        <tr>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-Usability-Testing/pages/guide">Guide</a></li></td>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-Usability-Testing/pages/schedule">Schedule</a></li></td>
     </tr>
     <tr>
-        <td style="width: 33%;"><ul><li><a href="http://18f.github.io/API-Usability-Testing/pages/templates">Email Templates</a></li></ul></td>
-        <td style="width: 33%;"><ul><li><a href="http://18f.github.io/API-Usability-Testing/pages/Agency-API-Guidelines">Agency API Guidelines</a></li></ul></td>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-Usability-Testing/pages/templates">Email Templates</a></li></td>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-Usability-Testing/pages/Agency-API-Guidelines">Agency API Guidelines</a></li></td>
     </tr>
     <tr>
-        <td style="width: 33%;"><ul><li><a href="http://18f.github.io/API-Usability-Testing/pages/handout">Handout</a></li></ul></td>
-        <td style="width: 33%;"><ul><li><a href="http://18f.github.io/API-Usability-Testing/pages/survey">Survey</a></li></ul></td>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-Usability-Testing/pages/handout">Handout</a></li></td>
+        <td style="width: 33%;"><li><a href="http://18f.github.io/API-Usability-Testing/pages/survey">Survey</a></li></td>
     </tr>
+</ul>
 </table>
