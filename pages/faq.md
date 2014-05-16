@@ -7,7 +7,7 @@ title: "FAQ"
   
 The best source for useful feedback of your API program is from developers who already use your APIs.  It's best if you have already been engaging with your developer community so that you have some names in mind to ask to participate. However, if you don't know who your users are, one option is to put up a notice on your developer hub that solicits volunteers.  Like this (GRAY - can we put an example or a screenshot?)
   
-Alternatively, you can engage with the developer community in your area and ask for volunteers there.  For instance, in DC, there is a vibrant [API meetup](http://www.meetup.com/DC-Web-API-User-Group/) that would be good to visit in search of participants.  Or use Twitter, listserves or social networks.
+Alternatively, you can engage with the developer community in your area and ask for volunteers there.  For instance, in DC, there is a vibrant [API meetup](http://www.meetup.com/DC-Web-API-User-Group/){:target="_blank"} that would be good to visit in search of participants.  Or use Twitter, listserves or social networks.
 
 Lastly, you can contact the [API Usability team at GSA](http://18f.github.io/API-Usability-Testing/pages/contact_us) to ask for suggestions.   
 
@@ -44,7 +44,3 @@ Once you do a couple of these, they become easy to replicate. We recommend givin
 ### 9. What kind of followup is necessary?
 
 Great question. We let our agency participants know right from the start that we hope to identify a few things they can easily change to make their API and its pages better. Then, we follow up with them 2-3 weeks afterward to see if they have made any changes. We always try to capture before and after screenshots for our records, as well.
-
-
-
-
