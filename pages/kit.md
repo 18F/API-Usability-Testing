@@ -15,7 +15,7 @@ The format is simple:
 
 ### Material  
 
-<table style="width: 66%;" border="0" cellpadding="2" cellspacing="2">
+<table style="width: 66%;" border="0" cellpadding="0" cellspacing="0">
     <tr>
         <td style="width: 33%;"><ul><li><a href="http://18f.github.io/API-Usability-Testing/pages/guide">Guide</a></li></ul></td>
         <td style="width: 33%;"><ul><li><a href="http://18f.github.io/API-Usability-Testing/pages/schedule">Schedule</a></li></ul></td>
