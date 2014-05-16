@@ -17,15 +17,15 @@ The format is simple:
 
 <table style="width: 66%;" border="0" cellpadding="2" cellspacing="2">
     <tr>
-        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/guide.html">Guide</a></td>
-        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/schedule.html">Schedule</a></td>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/guide">Guide</a></td>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/schedule">Schedule</a></td>
     </tr>
     <tr>
         <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/templates">Email Templates</a></td>
-        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/Agency-API-Guidelines.html">Agency API Guidelines</a></td>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/Agency-API-Guidelines">Agency API Guidelines</a></td>
     </tr>
     <tr>
-        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/handout.html">Handout</a></td>
-        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/survey.html">Survey</a></td>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/handout">Handout</a></td>
+        <td style="width: 33%;">* <a href="http://18f.github.io/API-Usability-Testing/pages/survey">Survey</a></td>
     </tr>
 </table>
