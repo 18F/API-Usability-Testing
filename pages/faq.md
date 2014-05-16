@@ -9,7 +9,7 @@ The best source for useful feedback of your API program is from developers who a
   
 Alternatively, you can engage with the developer community in your area and ask for volunteers there.  For instance, in DC, there is a vibrant [API meetup](http://www.meetup.com/DC-Web-API-User-Group/) that would be good to visit in search of participants.  Or use Twitter, listserves or social networks.
 
-Lastly, you can contact the [API Usability team at GSA](http://18f.github.io/API-Usability-Testing/pages/contact_us.html) to ask for suggestions.   
+Lastly, you can contact the [API Usability team at GSA](http://18f.github.io/API-Usability-Testing/pages/contact_us) to ask for suggestions.   
 
 
 ### 2. How can we do API usability testing with a remote participant?  
