@@ -8,9 +8,9 @@ title: Schedule
 * 8:55 *Expert 1 Arrive*
 * 9:00 *Welcome*
 * 9:00-9:45  *Expert 1 reviews all 3 APIS*
- * 9:05 *Expert 1 reviews agency 1*  
- * 9:20 *Expert 1 reviews agency 2*   
- * 9:35 *Expert 1 reviews agency 3*  
+   * 9:05 *Expert 1 reviews agency 1*  
+   * 9:20 *Expert 1 reviews agency 2*   
+   * 9:35 *Expert 1 reviews agency 3*  
 * 9:45-10:30   *Expert 2 reviews*
  * 9:50 *Expert 2 reviews agency 1*  
  * 10:05 *Expert 2 reviews agency 2*   
