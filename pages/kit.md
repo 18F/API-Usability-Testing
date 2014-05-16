@@ -7,7 +7,7 @@ We created this page to give you the tools to createa a better API User Experien
 
 The format is simple: 
 
-1. Invite developers to look at your API..
+1. Invite developers to look at your API.
 2. Listen to them critique it and perhaps try to use it
 3. Ask them questions
 4. Fix key issues
