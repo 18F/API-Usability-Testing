@@ -8,11 +8,11 @@ Here's how to create your own API Usability Evaluation:
 ### 1. Plan
 **Sell this concept to your team** - You're going to be spending some time getting this together, so let's make it count. Do people understand why User Experience is important? Are they willing to make changes based on the feedback you get? Get people on board, and get them excited about the evaluation.
 
-**Find some reviewers** - You want to get 2-4 people who are close to your customers as possible. But in the end, anyone who isn't on your team and understands APIs can offer useful feedback.  Some tips to finding reviewers: Actively reach out to your developer community by posting an invitation on your developer hub or emailing known constituency groups that you've worked with in the past on your programs requirements; visit local meetups such as the [DC API meetup](www.meetup.com/DC-Web-API-User-Group/) to find active and interested citizen developers; or [contact the GSA API Usability team](http://18f.github.io/API-Usability-Testing/pages/contact_us.html) who will always be happy to help you recruit.  
+**Find some reviewers** - You want to get 2-4 people who are close to your customers as possible. But in the end, anyone who isn't on your team and understands APIs can offer useful feedback.  Some tips to finding reviewers: Actively reach out to your developer community by posting an invitation on your developer hub or emailing known constituency groups that you've worked with in the past on your programs requirements; visit local meetups such as the [DC API meetup](www.meetup.com/DC-Web-API-User-Group/) to find active and interested citizen developers; or [contact the GSA API Usability team](http://18f.github.io/API-Usability-Testing/pages/contact_us) who will always be happy to help you recruit.  
 
 **Get your logistics covered** -  Spend a lot of time confirming people's involvement. Use this [email template](http://18f.github.io/API-Usability-Testing/pages/templates)  to invite everybody. Try and get as many stakeholders from each API as you can. Create a calendar invite and bring in people as they agree to take part. Send follow ups to everyone two weeks out, one week out, and the day before.  
 
-**Prep your evaluators** - Tell your reviewers to spend some time on the site first, even just five minutes. Tell them their goal is to do a live review of the strengths and weaknesses of the API. Tell them there will be a time crunch, so try to get into specifics as quickly as possible. Here's a list of [API Best Practices](http://18f.github.io/API-All-the-X/pages/best_practices.html) for them to refer to, if needed.
+**Prep your evaluators** - Tell your reviewers to spend some time on the site first, even just five minutes. Tell them their goal is to do a live review of the strengths and weaknesses of the API. Tell them there will be a time crunch, so try to get into specifics as quickly as possible. Here's a list of [API Best Practices](http://18f.github.io/API-All-the-X/pages/best_practices){:target="_blank"} for them to refer to, if needed.
 
 **Get a room** - It needs to hold your team, a reviewer and any observers you want to bring in. Remember, this can be a very powerful demonstration about why customer feedback is so important. The customer data you receive can solve disputes you're having. 
 
@@ -20,7 +20,7 @@ Here's how to create your own API Usability Evaluation:
 
 ### 2. Hold the review
 
-**Set up the room** - Print out the [handout ](http://18f.github.io/API-Usability-Testing/pages/handout.html) and the attached Usability Problem Sheet. Give people pens and paper. Set up a computer for the reviewer with the API open and ready to be used.
+**Set up the room** - Print out the [handout](http://18f.github.io/API-Usability-Testing/pages/handout) and the attached Usability Problem Sheet. Give people pens and paper. Set up a computer for the reviewer with the API open and ready to be used.
 
 **Assign roles** - You'll need a few people:
   * Facilitator - Lead the meeting, explain the rules and keep the meeting moving along
@@ -40,7 +40,7 @@ Here's how to create your own API Usability Evaluation:
 
 ### 3. After the review
 
-**Send out a survey** - Email everyone involved and thank them, and send out this [survey](http://18f.github.io/API-Usability-Testing/pages/survey.html) to collect feedback for future evaluations. 
+**Send out a survey** - Email everyone involved and thank them, and send out this [survey](http://18f.github.io/API-Usability-Testing/pages/survey) to collect feedback for future evaluations. 
 
 **Fix problems** - Do it!
 
@@ -48,11 +48,4 @@ Here's how to create your own API Usability Evaluation:
 
 **Document sucesses** - See if your metrics improve as a result of your test. Use the screenshots you took to create a Before and After. Spread the word about the important of this kind of evaluation, and invite more people to the next one!
 
-
-
-
-
-
-
-...
 
