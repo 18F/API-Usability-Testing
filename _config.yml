@@ -39,7 +39,7 @@ author:
 # ------------------------------------------------------------------
 navigation:
 - text: Home
-  url: http://18f.github.io/API-Usability-Testing/
+  url: 
   internal: true
 - text: What is API Usability Testing?
   url: pages/what_is_API_usability_testing
