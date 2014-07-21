@@ -53,6 +53,9 @@ navigation:
 - text: FAQ
   url: pages/faq
   internal: true
+- text: Lessons Learned
+  url: pages/lessons_learned
+  internal: true
 - text: Contact Us
   url: pages/contact_us
   internal: true 
