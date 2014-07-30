@@ -6,11 +6,11 @@ Thanks for contributing! There are two ways:
 #### The Prose.io model
 
 1. Navigate to [http://www.prose.io](http://prose.io/#18f/API-All-the-X)
-2. _Authorize_ prose.io to access your GitHub account.  
+2. _Authorize_ prose.io to access your GitHub account.
 3. Navigate to [http://prose.io/#18f/API-All-the-X](http://prose.io/#18f/API-All-the-X)
 3. Make edits and click the floppy disk icon
     - A dialog will appear to describe the changes and to _submit a change request_
-    - This _should_ do two things: 
+    - This _should_ do two things:
       1. Fork the repository to your account and ..
       1. Create a [pull request](https://help.github.com/articles/using-pull-requests)
 
@@ -23,7 +23,7 @@ Thanks for contributing! There are two ways:
 4. Submit a pull request to open a discussion about your proposed changes.
 5. We'll talk about it and decide to merge or request additional changes.
 
----
+### Public domain
 
 The project is in the public domain within the United States, and
 copyright and related rights in the work worldwide are waived through
