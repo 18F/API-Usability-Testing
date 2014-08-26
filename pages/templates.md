@@ -139,7 +139,7 @@ Links
 
 ## Scheduler for Outside Experts - One Week Before
 
-Thanks for being part of the API UX test! If you can arrive maybe 5-10 minutes early to give time for security, that'd be great. You can reach me at *[cell number]* when you get here and I'll serve as your escort to the testing room. Gray, Jon, myself, and the agency representatives look forward to seeing you!
+Thanks for being part of the API UX test! If you can arrive maybe 5-10 minutes early to give time for security, that'd be great. You can reach me at *[cell number]* when you get here and I'll serve as your escort to the testing room. [Your names here], and the agency representatives look forward to seeing you!
 
 ## Day Before Reminder
 
