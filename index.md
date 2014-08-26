@@ -20,6 +20,14 @@ Because if you want people to use your API, it *needs* to be usable.
 
 ### Blogposts and News
 
+**August 22, 2014**
+
+* [API Usability Case Study: openFDA](http://www.digitalgov.gov/2014/08/22/api-usability-case-study-openfda/?utm_source=rss&utm_medium=rss&utm_campaign=api-usability-case-study-openfda)
+
+**August 18, 2014**
+
+* [The Minimum Viable Building Blocks For a Federal Government API Hub](http://www.digitalgov.gov/2014/08/18/the-minimum-viable-building-blocks-for-a-federal-government-api-hub/)
+
 **May 19, 2014**  
 
 * [Packaging Up API Usability Testing for Agency Re-Use](http://18fblog.tumblr.com/post/86214382873/packaging-up-api-usability-testing-for-agency-re-use){:target="_blank"}
