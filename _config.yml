@@ -55,5 +55,5 @@ navigation:
   internal: true
 - text: Contact Us
   url: pages/contact_us
-  internal: false 
+  internal: true 
 
