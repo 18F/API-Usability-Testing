@@ -1,5 +1,0 @@
----
----
-Publisher,URL
-{% for developer_hubs in site.data.developer_hubs %}{{ developer_hubs[0] }},{{ developer_hubs[1].url }}
-{% endfor %}
