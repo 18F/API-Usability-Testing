@@ -44,9 +44,6 @@ navigation:
 - text: What is API Usability Testing?
   url: pages/what_is_API_usability_testing
   internal: true
-- text: Guide
-  url: pages/guide
-  internal: true 
 - text: Kit
   url: pages/kit
   internal: true
