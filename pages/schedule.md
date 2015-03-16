@@ -7,20 +7,20 @@ title: Schedule
 * 8:45 *Agencies Arrive*
 * 8:55 *Expert 1 Arrive*
 * 9:00 *Welcome*
-* 9:00-9:45  *Expert 1 reviews all 3 APIS*
+* 9:00-9:40  *Expert 1 reviews all 3 APIS*
    * 9:05 *Expert 1 reviews agency 1*  
-   * 9:20 *Expert 1 reviews agency 2*   
-   * 9:35 *Expert 1 reviews agency 3*  
-* 9:45-10:30   *Expert 2 reviews*
-   * 9:50 *Expert 2 reviews agency 1*  
-   * 10:05 *Expert 2 reviews agency 2*   
-   * 10:20 *Expert 2 reviews agency 3* 
-* 10:30-11:15  *Expert 3 reviews*
-   * 10:35 *Expert 2 reviews agency 1*  
-   * 10:50 *Expert 2 reviews agency 2*   
-   * 11:05 *Expert 2 reviews agency 3*
-* 11:15-12:00  *API owners discuss, provide peer review, and state 3-4 concrete next next steps they will adopt. Create  blank google doc and capture conversation and problems / solutions*
-* *12:15 Debrief for internal team* 
+   * 9:15 *Expert 1 reviews agency 2*   
+   * 9:25 *Expert 1 reviews agency 3*  
+* 9:40-10:20   *Expert 2 reviews*
+   * 9:45 *Expert 2 reviews agency 1*  
+   * 9:55 *Expert 2 reviews agency 2*   
+   * 10:05 *Expert 2 reviews agency 3* 
+* 10:20-11:00  *Expert 3 reviews*
+   * 10:25 *Expert 2 reviews agency 1*  
+   * 10:35 *Expert 2 reviews agency 2*   
+   * 10:45 *Expert 2 reviews agency 3*
+* 11:00-11:30  *API owners discuss, provide peer review, and state 3-4 concrete next next steps they will adopt. Create  blank google doc and capture conversation and problems / solutions*
+* *11:30 Debrief for internal team* 
 
    
 
