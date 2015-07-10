@@ -1,5 +1,5 @@
 # Base configuration
-permalink: /news/:title 
+permalink: /pages/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
 pygments: true
