@@ -42,18 +42,18 @@ navigation:
   url: 
   internal: true
 - text: What is API Usability Testing?
-  url: pages/what_is_API_usability_testing
+  url: pages/what_is_API_usability_testing.html
   internal: true
 - text: API Testing Kit
-  url: pages/kit
+  url: pages/kit.html
   internal: true
 - text: FAQ
-  url: pages/faq
+  url: pages/faq.html
   internal: true
 - text: Lessons Learned
-  url: pages/lessons_learned
+  url: pages/lessons_learned.html
   internal: true
 - text: Contact Us
-  url: pages/contact_us
+  url: pages/contact_us.html
   internal: true 
 
