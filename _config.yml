@@ -42,18 +42,18 @@ navigation:
   url: https://pages.18f.gov/API-Usability-Testing/
   internal: false
 - text: What is API Usability Testing?
-  url: https://pages.18f.gov/API-Usability-Testing/pages/what_is_API_usability_testing
+  url: https://pages.18f.gov/API-Usability-Testing/pages/what_is_API_usability_testing/
   internal: false
 - text: API Testing Kit
-  url: https://pages.18f.gov/API-Usability-Testing/pages/kit
+  url: https://pages.18f.gov/API-Usability-Testing/pages/kit/
   internal: false
 - text: FAQ
-  url: https://pages.18f.gov/API-Usability-Testing/pages/faq
+  url: https://pages.18f.gov/API-Usability-Testing/pages/faq/
   internal: false
 - text: Lessons Learned
-  url: https://pages.18f.gov/API-Usability-Testing/pages/lessons_learned
+  url: https://pages.18f.gov/API-Usability-Testing/pages/lessons_learned/
   internal: false
 - text: Contact Us
-  url: https://pages.18f.gov/API-Usability-Testing/pages/contact_us
+  url: https://pages.18f.gov/API-Usability-Testing/pages/contact_us/
   internal: false 
 
