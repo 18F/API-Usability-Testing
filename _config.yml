@@ -39,21 +39,21 @@ author:
 # ------------------------------------------------------------------
 navigation:
 - text: Home
-  url: 
-  internal: true
+  url: https://pages.18f.gov/API-Usability-Testing/
+  internal: false
 - text: What is API Usability Testing?
-  url: pages/what_is_API_usability_testing
-  internal: true
+  url: https://pages.18f.gov/API-Usability-Testing/pages/what_is_API_usability_testing
+  internal: false
 - text: API Testing Kit
-  url: pages/kit
-  internal: true
+  url: https://pages.18f.gov/API-Usability-Testing/pages/kit
+  internal: false
 - text: FAQ
-  url: pages/faq
-  internal: true
+  url: https://pages.18f.gov/API-Usability-Testing/pages/faq
+  internal: false
 - text: Lessons Learned
-  url: pages/lessons_learned
-  internal: true
+  url: https://pages.18f.gov/API-Usability-Testing/pages/lessons_learned
+  internal: false
 - text: Contact Us
-  url: pages/contact_us
-  internal: true 
+  url: https://pages.18f.gov/API-Usability-Testing/pages/contact_us
+  internal: false 
 
