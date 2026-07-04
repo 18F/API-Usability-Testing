@@ -11,6 +11,17 @@ Our two GSA programs - ([18F](https://18f.gsa.gov/){:target="_blank"} and the [D
 We teach you to conduct simple, easy usability evalutions and solve important problems. 
 Because if you want people to use your API, it *needs* to be usable.
 
+### Who is this for?
+
+This project is for government teams that publish APIs and want to understand how real developers experience their documentation, examples, onboarding, and API responses.
+
+It is especially useful for:
+
+* API program managers who need practical feedback before investing in larger improvements
+* Documentation and product teams working to make an API easier to discover, understand, and use
+* User experience researchers who want a lightweight format for testing developer-facing services
+* Agency staff preparing to run a feedback session with outside developers
+
 
 ### Our Goals 
 
